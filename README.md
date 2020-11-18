@@ -51,7 +51,7 @@ Repository for the second iteration
 
 ## 编程规范
 
-[编程规范](编程规范.md)
+[编程规范](编码规范.md)
 
 
 
